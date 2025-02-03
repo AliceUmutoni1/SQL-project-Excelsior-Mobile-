@@ -1,0 +1,15 @@
+ Excelsior Mobile Report
+ 
+Summary
+
+You are recently hired by Excelsior Mobile to be their new business analyst. Excelsior Mobile is a very small mobile company and is looking to expand so they want you to run some analysis on their customer database and figure out where they should put their marketing efforts and some other important analytical questions.
+
+ 
+Deliverables
+The way you will do this is by following the instructions below. Your deliverables will be a combination of answered questions and copied tables in Excel and a .sql file with the queries you wrote to find the answer, divided up by the question numbers.
+** You will not get credit for questions answered in Excel without corresponding SQL queries **
+** The SQL queries should deliver ONLY the data requested (unless noted)**
+
+Remember: Deliverables are two files: Excel and SQL File.
+Excel: You copy the table from here and then create visualization(s) and provide an answer to the question.
+SQL File: There are 16 queries necessary at minimum. You can use multiple queries for #3.
